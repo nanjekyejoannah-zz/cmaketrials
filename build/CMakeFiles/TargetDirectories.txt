@@ -1,0 +1,6 @@
+/home/joan/Desktop/Kata/build/CMakeFiles/edit_cache.dir
+/home/joan/Desktop/Kata/build/CMakeFiles/rebuild_cache.dir
+/home/joan/Desktop/Kata/build/src/CMakeFiles/rebuild_cache.dir
+/home/joan/Desktop/Kata/build/src/CMakeFiles/hell.dir
+/home/joan/Desktop/Kata/build/src/CMakeFiles/edit_cache.dir
+/home/joan/Desktop/Kata/build/src/CMakeFiles/main.dir
